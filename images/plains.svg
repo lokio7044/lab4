@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+	<title>Новий проект</title>
+	<defs>
+		<image  width="1280" height="720" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQAAAALQAQMAAAD1s08VAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAIdJREFUeJztwTEBAAAAwqD1T20JT6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeBrE3wABB8CymgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #0000ff } 
+		.s1 { fill: #ff0000 } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<path id="Форма 1" class="s0" d="m616 218.5l-0.3-0.6q-6.7-7.3-74.7-19.5l-91.7-6.7-58.3-13.4h-16.7l-76.3-73.6h18q6.8 0 11.7-0.9 5-1 5-2.5 0-1.4-5-2.4-4.9-0.9-11.7-0.9h-25-41.7-16.6v6.7h16.6v87h-41.6l-50-46.8h-25l-8.4 6.7v40.1h8.4v6.7h33.3v1.7l-50 5v26.8l50 5v1.7h-33.3v6.7h-8.4v40.1l8.4 6.7h25l50-46.8h41.6v87h-16.6v6.7h16.6 41.7 25q6.8 0 11.7-0.9 5-1 5-2.4 0-1.5-5-2.5-4.9-0.9-11.7-0.9h-18l76.3-73.6h16.7l58.3-13.4 91.7-6.7q74.7-13.4 75-20.1z"/>
+	<path id="Форма 2" class="s1" d="m1077 558l-0.3-0.6q-7.5-6.7-83.1-17.9l-101.9-6.2-64.9-12.3h-18.5l-84.9-67.8h20q7.5 0 13-0.9 5.5-0.9 5.5-2.2 0-1.4-5.5-2.2-5.5-0.9-13-0.9h-27.8-46.3-18.6v6.2h18.6v80.1h-46.4l-55.6-43.1h-27.8l-9.2 6.1v37h9.2v6.2h37.1v1.5l-55.6 4.7v24.6l55.6 4.7v1.5h-37.1v6.2h-9.2v37l9.2 6.1h27.8l55.6-43.1h46.4v80.1h-18.6v6.2h18.6 46.3 27.8q7.5 0 13-0.9 5.5-0.8 5.5-2.2 0-1.3-5.5-2.2-5.5-0.9-13-0.9h-20l84.9-67.8h18.5l64.9-12.3 101.9-6.2q83.1-12.3 83.4-18.5z"/>
+</svg>
